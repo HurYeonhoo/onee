@@ -8,7 +8,7 @@ from review_crawling import Crawling
 from review_classification import Classification
 
 # OpenAI API 키 설정
-openai_api_key = openai_api_key = st.secrets["OPENAI_API_KEY"]
+openai_api_key = st.secrets["OPENAI_API_KEY"]
 
 # 페이지 설정
 st.set_page_config(page_title="OneClickMakerChatbot", page_icon="💬")
