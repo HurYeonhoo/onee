@@ -1,0 +1,17 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+selenium
+matplotlib
+konlpy
+wordcloud
+loguru
+langchain
+langchain-community
+openai
+faiss-cpu
+tiktoken
+unstructured
+docx2txt
+webdriver_manager
